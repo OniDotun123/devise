@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a small and quick application where I familiarize myself with using Devise for User authentication.
 
 Things you may want to cover:
 
-* Ruby version
+* Clone this Repo
 
-* System dependencies
+* Enter rake db:migrate in your terminal
 
-* Configuration
+* Rails s 
 
-* Database creation
+* Go to the url Localhost:3000
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
